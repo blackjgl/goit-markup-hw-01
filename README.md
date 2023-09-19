@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-for homework 
+# hello world
+for the practice and reference
